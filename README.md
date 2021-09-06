@@ -10,4 +10,4 @@ If new packages are not being created to even after the build, probably the spac
 :ok_hand:
 
 ## Contact
-This repo is being maintained by Corporate systems team :cop:.
+This repo is being maintained by me :cop:.
