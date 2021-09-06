@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.LDAP", "Core.LDAP\Core.LDAP.csproj", "{DFB0AEAB-F8AE-4512-99E4-4E936CA566E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLDAP", "TestLDAP\TestLDAP.csproj", "{AA9417AE-E195-48FF-9F23-7867F77CDC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB0AEAB-F8AE-4512-99E4-4E936CA566E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB0AEAB-F8AE-4512-99E4-4E936CA566E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB0AEAB-F8AE-4512-99E4-4E936CA566E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB0AEAB-F8AE-4512-99E4-4E936CA566E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA9417AE-E195-48FF-9F23-7867F77CDC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9417AE-E195-48FF-9F23-7867F77CDC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9417AE-E195-48FF-9F23-7867F77CDC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9417AE-E195-48FF-9F23-7867F77CDC97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47735139-B626-4280-8283-99B23FD8ACB5}
+	EndGlobalSection
+EndGlobal

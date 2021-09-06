@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Package provides option to decrypt data in AES algorithm. More details in below link
+https://dev.azure.com/atkins-global/_git/Standards?path=%2FCore.Crypto&amp;version=GBmaster
+</Description>
+  </PropertyGroup>
+
+</Project>

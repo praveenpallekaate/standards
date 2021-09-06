@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Core.GraphAPI" Version="1.0.72200" />
+    <PackageReference Include="Microsoft.Graph" Version="3.27.0" />
+  </ItemGroup>
+
+</Project>
